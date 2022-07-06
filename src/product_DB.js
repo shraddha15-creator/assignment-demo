@@ -6,7 +6,7 @@ export const products = [
 		price: "999",
 		size: "L",
 		category: "men",
-		img: "https://picsum.photos/200/300",
+		img: "https://rukminim1.flixcart.com/image/580/696/ky0g58w0/t-shirt/r/9/k/m-16960-0679-levi-s-original-imagacjbrysvunbf.jpeg?q=50",
 	},
 	{
 		id: 2,
@@ -15,7 +15,7 @@ export const products = [
 		price: "1999",
 		size: "M",
 		category: "women",
-		img: "https://picsum.photos/200/300",
+		img: "https://rukminim1.flixcart.com/image/580/696/kwv0djk0/sweatshirt/z/s/6/m-67018644-puma-original-imag9fzcfynd4gbg.jpeg?q=50",
 	},
 	{
 		id: 3,
@@ -24,7 +24,7 @@ export const products = [
 		price: "2999",
 		size: "XL",
 		category: "women",
-		img: "https://picsum.photos/200/300",
+		img: "https://rukminim1.flixcart.com/image/580/696/l1fc0i80/t-shirt/s/b/y/m-ar5005-660-nike-original-imagcznzdjzhec7r.jpeg?q=50",
 	},
 	{
 		id: 4,
@@ -32,8 +32,8 @@ export const products = [
 		brand: "avaasa",
 		price: "999",
 		size: "L",
-		category: "men",
-		img: "https://picsum.photos/200/300",
+		category: "women",
+		img: "https://assets.ajio.com/medias/sys_master/root/20220117/z8wH/61e5648ef997dd66232568cb/-473Wx593H-463670640-black-MODEL.jpg",
 	},
 	{
 		id: 5,
@@ -42,7 +42,7 @@ export const products = [
 		price: "1299",
 		size: "L",
 		category: "men",
-		img: "https://picsum.photos/200/300",
+		img: "https://rukminim1.flixcart.com/image/580/696/l41n2q80/t-shirt/c/i/2/m-dr1288-353-nike-original-imagff7udknjfxqq.jpeg?q=50",
 	},
 	{
 		id: 6,
@@ -51,7 +51,7 @@ export const products = [
 		price: "899",
 		size: "S",
 		category: "kids",
-		img: "https://picsum.photos/200/300",
+		img: "https://assets.ajio.com/medias/sys_master/root/20211018/dVaa/616d072ef997ddf8f1d7ded2/-473Wx593H-469002122-red-MODEL.jpg",
 	},
 	{
 		id: 7,
@@ -60,6 +60,6 @@ export const products = [
 		price: "999",
 		size: "L",
 		category: "men",
-		img: "https://picsum.photos/200/300",
+		img: "https://rukminim1.flixcart.com/image/580/696/l4zxn680/t-shirt/i/i/x/-original-imagfrzgykucfz7d.jpeg?q=50",
 	},
 ];
